@@ -1,0 +1,944 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\borrowreturn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:borrowreturn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\borrowreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:borrowreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\memberdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\memberborrowed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberborrowed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\memberborrowed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberborrowed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\memberdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\createacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:createacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\createacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:createacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\memberborrowed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberborrowed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\memberschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\memberreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\equipmentcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:equipmentcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\equipmentcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:equipmentcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\memberreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\borrowreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:borrowreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\memberschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\memberdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\memberaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\memberaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\memberaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\memberschedule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:memberschedule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\equipmentcatalog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:equipmentcatalog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\performances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:performances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\resetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:resetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\resetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:resetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\performances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:performances.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\reports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:reports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\performances.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:performances.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\reservation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:reservation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\createacc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:createacc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\forgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:forgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\resetpass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:resetpass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\reports.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:reports.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\dashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:dashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kyle  Corpuz\\Downloads\\BorrowReturn.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\inventoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:inventoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|c:\\users\\charles dwayne\\desktop\\pairs tejano, corpuz\\pairs\\users.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{859E9909-58A2-F6D1-8EBE-F668FD19D166}|WinFormsApp2.csproj|solutionrelative:users.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kyle  Corpuz\\Downloads\\PAIRS GUI\\BorrowReturn.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA4wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T13:40:04.858Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemberBorrowed.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberBorrowed.cs",
+              "RelativeDocumentMoniker": "MemberBorrowed.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberBorrowed.cs [Design]",
+              "RelativeToolTip": "MemberBorrowed.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:14:12.86Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberBorrowed.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberBorrowed.Designer.cs",
+              "RelativeDocumentMoniker": "MemberBorrowed.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberBorrowed.Designer.cs",
+              "RelativeToolTip": "MemberBorrowed.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:55:16.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "MemberDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberDashboard.Designer.cs",
+              "RelativeToolTip": "MemberDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T15:53:47.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowReturn.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\BorrowReturn.cs",
+              "RelativeDocumentMoniker": "BorrowReturn.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\BorrowReturn.cs",
+              "RelativeToolTip": "BorrowReturn.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwCcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T05:29:04.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowReturn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\BorrowReturn.Designer.cs",
+              "RelativeDocumentMoniker": "BorrowReturn.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\BorrowReturn.Designer.cs",
+              "RelativeToolTip": "BorrowReturn.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcDAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T00:34:59.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberBorrowed.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberBorrowed.cs",
+              "RelativeDocumentMoniker": "MemberBorrowed.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberBorrowed.cs",
+              "RelativeToolTip": "MemberBorrowed.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T12:57:53.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberDashboard.cs",
+              "RelativeDocumentMoniker": "MemberDashboard.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberDashboard.cs [Design]",
+              "RelativeToolTip": "MemberDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T12:56:22.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateAcc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\CreateAcc.cs",
+              "RelativeDocumentMoniker": "CreateAcc.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\CreateAcc.cs [Design]",
+              "RelativeToolTip": "CreateAcc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T12:39:42.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateAcc.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\CreateAcc.cs",
+              "RelativeDocumentMoniker": "CreateAcc.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\CreateAcc.cs",
+              "RelativeToolTip": "CreateAcc.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAkwKkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:10:31.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemberSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberSchedule.cs",
+              "RelativeDocumentMoniker": "MemberSchedule.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberSchedule.cs [Design]",
+              "RelativeToolTip": "MemberSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T12:03:57.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EquipmentCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\EquipmentCatalog.cs",
+              "RelativeDocumentMoniker": "EquipmentCatalog.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\EquipmentCatalog.cs",
+              "RelativeToolTip": "EquipmentCatalog.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAswIEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T12:56:50.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberReservation.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberReservation.cs",
+              "RelativeDocumentMoniker": "MemberReservation.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberReservation.cs",
+              "RelativeToolTip": "MemberReservation.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAwAkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T12:58:18.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EquipmentCatalog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\EquipmentCatalog.cs",
+              "RelativeDocumentMoniker": "EquipmentCatalog.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS\\EquipmentCatalog.cs [Design]",
+              "RelativeToolTip": "..\\..\\PAIRS\\EquipmentCatalog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T12:56:05.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemberReservation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberReservation.cs",
+              "RelativeDocumentMoniker": "MemberReservation.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS\\MemberReservation.cs [Design]",
+              "RelativeToolTip": "..\\..\\PAIRS\\MemberReservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T12:56:26.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BorrowReturn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\BorrowReturn.cs",
+              "RelativeDocumentMoniker": "BorrowReturn.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\BorrowReturn.cs [Design]",
+              "RelativeToolTip": "BorrowReturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:16:00.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MemberDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberDashboard.cs",
+              "RelativeDocumentMoniker": "MemberDashboard.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberDashboard.cs",
+              "RelativeToolTip": "MemberDashboard.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAcwNoAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T12:58:07.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\PAIRS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:26:44.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MemberSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberSchedule.cs",
+              "RelativeDocumentMoniker": "MemberSchedule.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberSchedule.cs",
+              "RelativeToolTip": "MemberSchedule.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAowCEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:45:12.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MemberAccount.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberAccount.cs",
+              "RelativeDocumentMoniker": "MemberAccount.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberAccount.cs",
+              "RelativeToolTip": "MemberAccount.cs",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAowKkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:44:53.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MemberAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberAccount.cs",
+              "RelativeDocumentMoniker": "MemberAccount.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS\\MemberAccount.cs [Design]",
+              "RelativeToolTip": "..\\..\\PAIRS\\MemberAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T12:43:42.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS\\Settings.cs [Design]",
+              "RelativeToolTip": "..\\..\\PAIRS\\Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:36:23.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MemberAccount.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberAccount.Designer.cs",
+              "RelativeDocumentMoniker": "MemberAccount.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberAccount.Designer.cs",
+              "RelativeToolTip": "MemberAccount.Designer.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAvwPYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T12:23:39.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EquipmentCatalog.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\EquipmentCatalog.Designer.cs",
+              "RelativeDocumentMoniker": "EquipmentCatalog.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\EquipmentCatalog.Designer.cs",
+              "RelativeToolTip": "EquipmentCatalog.Designer.cs",
+              "ViewState": "AgIAAKwBAAAAAAAAAAD4v8ABAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:06:57.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MemberSchedule.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberSchedule.Designer.cs",
+              "RelativeDocumentMoniker": "MemberSchedule.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\MemberSchedule.Designer.cs",
+              "RelativeToolTip": "MemberSchedule.Designer.cs",
+              "ViewState": "AgIAABkCAAAAAAAAAAAvwCsCAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:08:58.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Reservation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Reservation.cs",
+              "RelativeDocumentMoniker": "Reservation.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS\\Reservation.cs [Design]",
+              "RelativeToolTip": "..\\..\\PAIRS\\Reservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:55:47.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS\\Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\PAIRS\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:45:15.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAD4vzIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T05:26:04.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Performances.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Performances.cs",
+              "RelativeDocumentMoniker": "Performances.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS\\Performances.cs [Design]",
+              "RelativeToolTip": "..\\..\\PAIRS\\Performances.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T05:57:57.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Reports.cs",
+              "RelativeDocumentMoniker": "Reports.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS\\Reports.cs [Design]",
+              "RelativeToolTip": "..\\..\\PAIRS\\Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T12:34:33.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\UserSession.cs",
+              "RelativeDocumentMoniker": "UserSession.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\UserSession.cs",
+              "RelativeToolTip": "UserSession.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T01:50:02.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AgIAAC4CAAAAAAAAAAAowDoCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T05:30:30.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ResetPass.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\ResetPass.cs",
+              "RelativeDocumentMoniker": "ResetPass.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\ResetPass.cs",
+              "RelativeToolTip": "ResetPass.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAYwMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:28:19.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResetPass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\ResetPass.cs",
+              "RelativeDocumentMoniker": "ResetPass.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS\\ResetPass.cs [Design]",
+              "RelativeToolTip": "..\\..\\PAIRS\\ResetPass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:56:20.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PasswordValidator.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\PasswordValidator.cs",
+              "RelativeDocumentMoniker": "PasswordValidator.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\PasswordValidator.cs",
+              "RelativeToolTip": "PasswordValidator.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:24:52.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Users.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Users.cs",
+              "RelativeDocumentMoniker": "Users.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS\\Users.cs [Design]",
+              "RelativeToolTip": "..\\..\\PAIRS\\Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T02:30:52.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Settings.Designer.cs",
+              "RelativeToolTip": "Settings.Designer.cs",
+              "ViewState": "AgIAAIoDAAAAAAAAAAD4v5UDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T11:41:59.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Users.cs",
+              "RelativeDocumentMoniker": "Users.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Users.cs",
+              "RelativeToolTip": "Users.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T05:24:35.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Users.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Users.Designer.cs",
+              "RelativeDocumentMoniker": "Users.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Users.Designer.cs",
+              "RelativeToolTip": "Users.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T10:30:49.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Reports.cs",
+              "RelativeDocumentMoniker": "Reports.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Reports.cs",
+              "RelativeToolTip": "Reports.cs",
+              "ViewState": "AgIAABYCAAAAAAAAAIAwwCECAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T13:55:49.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Performances.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Performances.cs",
+              "RelativeDocumentMoniker": "Performances.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Performances.cs",
+              "RelativeToolTip": "Performances.cs",
+              "ViewState": "AgIAALgBAAAAAAAAAAAlwNsBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T13:31:19.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T15:09:07.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Reports.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Reports.Designer.cs",
+              "RelativeDocumentMoniker": "Reports.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Reports.Designer.cs",
+              "RelativeToolTip": "Reports.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAD4vxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T23:33:03.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Performances.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Performances.Designer.cs",
+              "RelativeDocumentMoniker": "Performances.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Performances.Designer.cs",
+              "RelativeToolTip": "Performances.Designer.cs",
+              "ViewState": "AgIAAD4CAAAAAAAAAAAkwEYCAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T23:31:17.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Reservation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Reservation.Designer.cs",
+              "RelativeDocumentMoniker": "Reservation.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Reservation.Designer.cs",
+              "RelativeToolTip": "Reservation.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAD4vxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:55:22.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAD4v9UAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T13:29:10.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Dashboard.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAD4vxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T13:23:56.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateAcc.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\CreateAcc.Designer.cs",
+              "RelativeDocumentMoniker": "CreateAcc.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\CreateAcc.Designer.cs",
+              "RelativeToolTip": "CreateAcc.Designer.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAD4vxsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T16:12:17.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "ForgotPassword.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\ForgotPassword.cs",
+              "RelativeToolTip": "ForgotPassword.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T13:25:17.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:24:00.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ForgotPassword.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\ForgotPassword.Designer.cs",
+              "RelativeDocumentMoniker": "ForgotPassword.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\ForgotPassword.Designer.cs",
+              "RelativeToolTip": "ForgotPassword.Designer.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAuwL0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T13:34:37.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ResetPass.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\ResetPass.Designer.cs",
+              "RelativeDocumentMoniker": "ResetPass.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\ResetPass.Designer.cs",
+              "RelativeToolTip": "ResetPass.Designer.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAD4vysBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:47:47.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Reports.resx",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Reports.resx",
+              "RelativeDocumentMoniker": "Reports.resx",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Reports.resx",
+              "RelativeToolTip": "Reports.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-05T13:55:34.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Users.resx",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Users.resx",
+              "RelativeDocumentMoniker": "Users.resx",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Users.resx",
+              "RelativeToolTip": "Users.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-08-23T10:30:46.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "InventoryForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\InventoryForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryForm.Designer.cs",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\InventoryForm.Designer.cs",
+              "RelativeToolTip": "InventoryForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T00:34:05.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BorrowReturn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kyle  Corpuz\\Downloads\\BorrowReturn.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Kyle  Corpuz\\Downloads\\BorrowReturn.Designer.cs",
+              "ToolTip": "C:\\Users\\Kyle  Corpuz\\Downloads\\BorrowReturn.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Kyle  Corpuz\\Downloads\\BorrowReturn.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T00:31:24.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Dashboard.resx",
+              "DocumentMoniker": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Dashboard.resx",
+              "RelativeDocumentMoniker": "Dashboard.resx",
+              "ToolTip": "C:\\Users\\CHARLES DWAYNE\\Desktop\\PAIRS Tejano, Corpuz\\PAIRS\\Dashboard.resx",
+              "RelativeToolTip": "Dashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-08-19T00:33:09.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BorrowReturn.resx",
+              "DocumentMoniker": "C:\\Users\\Kyle  Corpuz\\Downloads\\PAIRS GUI\\BorrowReturn.resx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Kyle  Corpuz\\Downloads\\PAIRS GUI\\BorrowReturn.resx",
+              "ToolTip": "C:\\Users\\Kyle  Corpuz\\Downloads\\PAIRS GUI\\BorrowReturn.resx",
+              "RelativeToolTip": "..\\..\\..\\..\\Kyle  Corpuz\\Downloads\\PAIRS GUI\\BorrowReturn.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-08-18T12:51:37.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
